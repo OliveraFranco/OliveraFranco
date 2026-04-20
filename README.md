@@ -1,10 +1,10 @@
 # 💫 About Me:
 <div>
-  <p>🟢 Estudiante de Ingeniería en Informática</p>
-  <p>💻 Aprendiendo C y Python (pronto HTML, CSS & JS)</p>
-  <p>🚀 Construyendo proyectos para mejorar día a día</p>
-  <p>🤝 Buscando aprender, colaborar y crecer como dev</p>
-  <p>⚡ Amante de resolver problemas y debuggear código</p>
+  <p>🟢 Computer Engineering student</p>
+  <p>💻 Learning C and Python (next: HTML, CSS & JavaScript)</p>
+  <p>🚀 Building projects to improve every day</p>
+  <p>🤝 Looking to learn, collaborate and grow as a developer</p>
+  <p>⚡ Passionate about problem-solving and debugging code</p>
 </div>
 
 
