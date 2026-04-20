@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Turning coffee ☕ into code while building my first projects in C & Python<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly projects where we can learn by doing<br><br>🤝 I’m looking for help with<br>Writing cleaner code and thinking like a real developer<br><br>🌱 I’m currently learning<br>C, Python → next stop: HTML, CSS & JavaScript<br><br>💬 Ask me about<br>Starting from zero in programming and not giving up 💪<br><br>⚡ Fun fact<br>Every bug I fix feels like beating a mini boss 🎮
+<div>
+  <p>🟢 Estudiante de Ingeniería en Informática</p>
+  <p>💻 Aprendiendo C y Python (pronto HTML, CSS & JS)</p>
+  <p>🚀 Construyendo proyectos para mejorar día a día</p>
+  <p>🤝 Buscando aprender, colaborar y crecer como dev</p>
+  <p>⚡ Amante de resolver problemas y debuggear código</p>
+</div>
 
 
 ## 🌐 Socials:
