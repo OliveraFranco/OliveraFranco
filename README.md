@@ -5,7 +5,7 @@
   <p>🚀 Building projects to improve every day</p>
   <p>🤝 Looking to learn, collaborate and grow as a developer</p>
   <p>⚡ Passionate about problem-solving and debugging code</p>
-</div>
+</div> 
 
 
 ## 🌐 Socials:
